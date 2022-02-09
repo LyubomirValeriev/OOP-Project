@@ -1,0 +1,58 @@
+C:\Users\User PC\Desktop\Курсов Проект\Проект\bin\Debug\Проект.exe.config
+C:\Users\User PC\Desktop\Курсов Проект\Проект\bin\Debug\Проект.exe
+C:\Users\User PC\Desktop\Курсов Проект\Проект\bin\Debug\Проект.pdb
+C:\Users\User PC\Desktop\Курсов Проект\Проект\obj\Debug\Проект.csprojAssemblyReference.cache
+C:\Users\User PC\Desktop\Курсов Проект\Проект\obj\Debug\Проект.FormMain.resources
+C:\Users\User PC\Desktop\Курсов Проект\Проект\obj\Debug\Проект.Properties.Resources.resources
+C:\Users\User PC\Desktop\Курсов Проект\Проект\obj\Debug\Проект.csproj.GenerateResource.cache
+C:\Users\User PC\Desktop\Курсов Проект\Проект\obj\Debug\Проект.csproj.CoreCompileInputs.cache
+C:\Users\User PC\Desktop\Курсов Проект\Проект\obj\Debug\Проект.exe
+C:\Users\User PC\Desktop\Курсов Проект\Проект\obj\Debug\Проект.pdb
+C:\Users\User PC\Desktop\Проект\bin\Debug\Проект.exe.config
+C:\Users\User PC\Desktop\Проект\bin\Debug\Проект.exe
+C:\Users\User PC\Desktop\Проект\bin\Debug\Проект.pdb
+C:\Users\User PC\Desktop\Проект\obj\Debug\Проект.csprojAssemblyReference.cache
+C:\Users\User PC\Desktop\Проект\obj\Debug\Проект.FormMain.resources
+C:\Users\User PC\Desktop\Проект\obj\Debug\Проект.Properties.Resources.resources
+C:\Users\User PC\Desktop\Проект\obj\Debug\Проект.SquaresNqkvo.resources
+C:\Users\User PC\Desktop\Проект\obj\Debug\Проект.csproj.GenerateResource.cache
+C:\Users\User PC\Desktop\Проект\obj\Debug\Проект.csproj.CoreCompileInputs.cache
+C:\Users\User PC\Desktop\Проект\obj\Debug\Проект.exe
+C:\Users\User PC\Desktop\Проект\obj\Debug\Проект.pdb
+C:\Users\User PC\Desktop\Проект – Форми\bin\Debug\Проект.exe.config
+C:\Users\User PC\Desktop\Проект – Форми\bin\Debug\Проект.exe
+C:\Users\User PC\Desktop\Проект – Форми\bin\Debug\Проект.pdb
+C:\Users\User PC\Desktop\Проект – Форми\obj\Debug\Проект.csprojAssemblyReference.cache
+C:\Users\User PC\Desktop\Проект – Форми\obj\Debug\Проект.FormMain.resources
+C:\Users\User PC\Desktop\Проект – Форми\obj\Debug\Проект.Properties.Resources.resources
+C:\Users\User PC\Desktop\Проект – Форми\obj\Debug\Проект.SquaresForm.resources
+C:\Users\User PC\Desktop\Проект – Форми\obj\Debug\Проект.csproj.GenerateResource.cache
+C:\Users\User PC\Desktop\Проект – Форми\obj\Debug\Проект.csproj.CoreCompileInputs.cache
+C:\Users\User PC\Desktop\Проект – Форми\obj\Debug\Проект.exe
+C:\Users\User PC\Desktop\Проект – Форми\obj\Debug\Проект.pdb
+C:\Users\User PC\Desktop\Проект – Форми\obj\Debug\Проект.PropertiesForm1.resources
+C:\Users\User PC\Desktop\Проект – Форми - Квадрат\bin\Debug\Проект.exe.config
+C:\Users\User PC\Desktop\Проект – Форми - Квадрат\bin\Debug\Проект.exe
+C:\Users\User PC\Desktop\Проект – Форми - Квадрат\bin\Debug\Проект.pdb
+C:\Users\User PC\Desktop\Проект – Форми - Квадрат\obj\Debug\Проект.csprojAssemblyReference.cache
+C:\Users\User PC\Desktop\Проект – Форми - Квадрат\obj\Debug\Проект.FormMain.resources
+C:\Users\User PC\Desktop\Проект – Форми - Квадрат\obj\Debug\Проект.PropertiesForm1.resources
+C:\Users\User PC\Desktop\Проект – Форми - Квадрат\obj\Debug\Проект.Properties.Resources.resources
+C:\Users\User PC\Desktop\Проект – Форми - Квадрат\obj\Debug\Проект.SquaresForm.resources
+C:\Users\User PC\Desktop\Проект – Форми - Квадрат\obj\Debug\Проект.csproj.GenerateResource.cache
+C:\Users\User PC\Desktop\Проект – Форми - Квадрат\obj\Debug\Проект.csproj.CoreCompileInputs.cache
+C:\Users\User PC\Desktop\Проект – Форми - Квадрат\obj\Debug\Проект.exe
+C:\Users\User PC\Desktop\Проект – Форми - Квадрат\obj\Debug\Проект.pdb
+C:\Users\User PC\Desktop\Проект – Форми - Окръжност\obj\Debug\Проект.csprojAssemblyReference.cache
+C:\Users\User PC\Desktop\Проект – Форми - Окръжност\obj\Debug\Проект.FormMain.resources
+C:\Users\User PC\Desktop\Проект – Форми - Окръжност\obj\Debug\Проект.Properties.Resources.resources
+C:\Users\User PC\Desktop\Проект – Форми - Окръжност\obj\Debug\Проект.csproj.GenerateResource.cache
+C:\Users\User PC\Desktop\Проект – Форми - Окръжност\obj\Debug\Проект.csproj.CoreCompileInputs.cache
+C:\Users\User PC\Desktop\Проект – Форми - Окръжност\obj\Debug\Проект.exe
+C:\Users\User PC\Desktop\Проект – Форми - Окръжност\obj\Debug\Проект.pdb
+C:\Users\User PC\Desktop\Проект – Форми - Окръжност\bin\Debug\Проект.exe.config
+C:\Users\User PC\Desktop\Проект – Форми - Окръжност\bin\Debug\Проект.exe
+C:\Users\User PC\Desktop\Проект – Форми - Окръжност\bin\Debug\Проект.pdb
+C:\Users\User PC\Desktop\Проект – Форми - Окръжност\obj\Debug\Проект.AddForm.resources
+C:\Users\User PC\Desktop\Проект – Форми - Окръжност\obj\Debug\Проект.FormSelectFile.resources
+C:\Users\User PC\Desktop\Проект – Форми - Окръжност\obj\Debug\Проект.FormFileName.resources
